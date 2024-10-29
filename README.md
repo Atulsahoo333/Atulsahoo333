@@ -13,7 +13,7 @@ Skills: Python/MySQL/Power BI/Excel/Machine Learning
 - 😄 Pronouns: hi/him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Atulsahoo333)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Atul Kumar Sahoo/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Atulsahoo333)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/atul-kumar-sahoo/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atulsahoo333)](https://github.com/anuraghazra/github-readme-stats)
 
