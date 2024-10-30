@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/1Hv_jZIlwCc7oYz9k-5islfvT11pa7IWZ/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
   <a href="https://www.linkedin.com/in/atul-kumar-sahoo-46281923a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
